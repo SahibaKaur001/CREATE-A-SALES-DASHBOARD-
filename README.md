@@ -93,3 +93,6 @@ To build an **interactive sales dashboard** for a Super Store to analyze perform
 * Aids inventory and supply chain planning based on delivery averages and sales trends.
 * Supports decision-making around promotions, stock, and logistics.
 
+  ## OUTPUT
+  ![Image](https://github.com/user-attachments/assets/f1d778eb-be37-46b0-afcd-cc9d86d4d377)
+
